@@ -1,0 +1,1 @@
+function book(name) { alert(`Booking confirmed for ${name}! Our travel consultant will contact you.`); }

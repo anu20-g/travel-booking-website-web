@@ -1,0 +1,1 @@
+# Travel Booking Website (Demo) - Team 1\n\nBuild a travel destination page with package details, booking form and input validation; no real booking or payment.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
